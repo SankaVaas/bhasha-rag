@@ -1,0 +1,2 @@
+{"question": "දළදා මාළිගාව පිහිටා ඇත්තේ කොහෙද?", "expected_source": "data/sample/si_sample.txt", "expected_substring": "මහනුවර"}
+{"question": "புனித தந்தத் தாது கோயில் எங்கே உள்ளது?", "expected_source": "data/sample/ta_sample.txt", "expected_substring": "கண்டி"}
